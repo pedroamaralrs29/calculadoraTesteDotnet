@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\testesDio\Calculadora\bin\Debug\net9.0\Calculadora.exe
+C:\Users\user\Desktop\C#\testesDio\Calculadora\bin\Debug\net9.0\Calculadora.deps.json
+C:\Users\user\Desktop\C#\testesDio\Calculadora\bin\Debug\net9.0\Calculadora.runtimeconfig.json
+C:\Users\user\Desktop\C#\testesDio\Calculadora\bin\Debug\net9.0\Calculadora.dll
+C:\Users\user\Desktop\C#\testesDio\Calculadora\bin\Debug\net9.0\Calculadora.pdb
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.dll
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.pdb
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\testesDio\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
